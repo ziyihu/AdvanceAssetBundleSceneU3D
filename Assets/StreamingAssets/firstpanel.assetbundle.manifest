@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2928726737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d26ba01df5152937798fe171300aa1d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bba77d9536b7b1c44a8af103a5b16306
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8857640dd04894a3b9a60021b49b5748, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/StreamingAssets/secondbg.assetbundle.manifest
+- Assets/StreamingAssets/boyidle.assetbundle
+- Assets/Resources/firstpanel.prefab
+- Assets/StreamingAssets/secondpanel.assetbundle
+- Assets/StreamingAssets/secondpanel.assetbundle.manifest
+- Assets/StreamingAssets/StreamingAssets.manifest
+- Assets/StreamingAssets/StreamingAssets
+- Assets/StreamingAssets/secondbg.assetbundle
+- Assets/StreamingAssets/thirdpanel.assetbundle.manifest
+- Assets/StreamingAssets/girlidle.assetbundle.manifest
+- Assets/StreamingAssets/boyidle.assetbundle.manifest
+- Assets/StreamingAssets/girlidle.assetbundle
+- Assets/StreamingAssets/thirdpanel.assetbundle
+Dependencies: []

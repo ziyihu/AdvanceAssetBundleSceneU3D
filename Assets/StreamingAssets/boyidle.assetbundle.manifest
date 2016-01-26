@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1975386661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87f69fe0d86bed78c1148ab8b898b09d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 92905776e678fe75cff93f88b91c7b0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/boyidle.prefab
+Dependencies: []

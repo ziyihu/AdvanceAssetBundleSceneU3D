@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: thirdpanel.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: firstpanel.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: girlidle.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: boyidle.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: secondbg.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: secondpanel.assetbundle
+      Dependencies: {}
